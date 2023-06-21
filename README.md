@@ -4,6 +4,8 @@
 
 https://drive.google.com/file/d/16_rzXAFqeeQ_7W9vylNStgwLSE9CrX8p/view?usp=sharing
 
+[<img src="https://drive.google.com/file/d/16_rzXAFqeeQ_7W9vylNStgwLSE9CrX8p/view?usp=sharing" width="50%">](https://drive.google.com/file/d/16_rzXAFqeeQ_7W9vylNStgwLSE9CrX8p/view?usp=sharing "Flex Video")
+
 ```css
 div.container {
   display: flex;
